@@ -1,5 +1,5 @@
 # consulting
-Various interesting things done on projects
+Various interesting things done on projects. More information available in the [wiki](https://github.com/tkaszuba/consulting/wiki)
 
 ## functional programming
 Presentation on functional programming in Ruby
