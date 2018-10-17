@@ -8,4 +8,4 @@ Presentation on functional programming in Ruby
 Presentation on extracting and displaying datalineage from SAS in mongo and neo4j
 
 ## monte carlo
-Examples on using monte carlo simulation to calculate pie
+Examples on using monte carlo simulation to calculate pie in ruby and scala
